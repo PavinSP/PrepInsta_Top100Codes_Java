@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2580479-b0d5-4caa-9628-f228dd582436" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Problem_007_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_007_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_007_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_008_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_008_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_008_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
     &quot;accountId&quot;: &quot;b263634e-067c-46c4-9031-84827d37a617&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -68,6 +72,9 @@
     "Application.Problem_006_2.executor": "Run",
     "Application.Problem_006_3.executor": "Run",
     "Application.Problem_007_1.executor": "Run",
+    "Application.Problem_007_2.executor": "Run",
+    "Application.Problem_007_3.executor": "Run",
+    "Application.Problem_008_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -154,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724643157448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1724643737489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724643737489</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
