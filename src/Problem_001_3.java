@@ -1,4 +1,4 @@
-// Using Ternary Operator
+// Method 3: Using Ternary Operator
 import java.util.Scanner;
 public class Problem_001_3 {
     public static void main(String[] args) {

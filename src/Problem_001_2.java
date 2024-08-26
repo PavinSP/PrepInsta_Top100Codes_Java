@@ -1,4 +1,4 @@
-// Using Nested if-else Statements
+// Method 2: Using Nested if-else Statements
 import java.util.Scanner;
 public class Problem_001_2 {
     public static void main(String[] args){
