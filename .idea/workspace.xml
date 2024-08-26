@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2580479-b0d5-4caa-9628-f228dd582436" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Problem_004_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_004_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_004_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_005_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_005_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_005_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,8 @@
     "Application.Problem_004_1.executor": "Run",
     "Application.Problem_004_2.executor": "Run",
     "Application.Problem_004_3.executor": "Run",
+    "Application.Problem_005_1.executor": "Run",
+    "Application.Problem_005_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724635808747</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1724636086405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724636086405</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
