@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2580479-b0d5-4caa-9628-f228dd582436" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Problem_006_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_006_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_006_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_007_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_007_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_007_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Application.Problem_006_1.executor": "Run",
     "Application.Problem_006_2.executor": "Run",
     "Application.Problem_006_3.executor": "Run",
+    "Application.Problem_007_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -75,6 +75,20 @@
     "onboarding.tips.debug.path": "E:/Java/Java Projects/PrepInsta_Top100Codes_Java/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Problem_007_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_007_2" />
+      <module name="PrepInsta_Top100Codes_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_007_2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -132,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724636609251</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1724643157448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724643157448</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
