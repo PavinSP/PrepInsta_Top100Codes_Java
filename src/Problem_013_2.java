@@ -16,7 +16,6 @@ public class Problem_013_2{
         return count;
     }
     public static int armstrong(int num, int length){
-        int temp = num;
         if (num == 0){
             return 0;
         }
