@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2580479-b0d5-4caa-9628-f228dd582436" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Problem_012_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_012_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_012_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_012_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_013_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rough.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,56 +50,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Problem_001_1.executor": "Run",
-    "Application.Problem_001_2.executor": "Run",
-    "Application.Problem_001_3.executor": "Run",
-    "Application.Problem_002_1.executor": "Run",
-    "Application.Problem_002_2.executor": "Run",
-    "Application.Problem_002_3.executor": "Run",
-    "Application.Problem_003_1.executor": "Run",
-    "Application.Problem_003_2.executor": "Run",
-    "Application.Problem_003_3.executor": "Run",
-    "Application.Problem_004_1.executor": "Run",
-    "Application.Problem_004_2.executor": "Run",
-    "Application.Problem_004_3.executor": "Run",
-    "Application.Problem_005_1.executor": "Run",
-    "Application.Problem_005_2.executor": "Run",
-    "Application.Problem_005_3.executor": "Run",
-    "Application.Problem_006_1.executor": "Run",
-    "Application.Problem_006_2.executor": "Run",
-    "Application.Problem_006_3.executor": "Run",
-    "Application.Problem_007_1.executor": "Run",
-    "Application.Problem_007_2.executor": "Run",
-    "Application.Problem_007_3.executor": "Run",
-    "Application.Problem_008_1.executor": "Run",
-    "Application.Problem_008_3.executor": "Run",
-    "Application.Problem_009_1.executor": "Run",
-    "Application.Problem_009_2.executor": "Run",
-    "Application.Problem_009_3.executor": "Run",
-    "Application.Problem_009_4.executor": "Run",
-    "Application.Problem_009_5.executor": "Run",
-    "Application.Problem_009_6.executor": "Run",
-    "Application.Problem_010_1.executor": "Run",
-    "Application.Problem_010_2.executor": "Run",
-    "Application.Problem_010_3.executor": "Run",
-    "Application.Problem_010_4.executor": "Run",
-    "Application.Problem_011_1.executor": "Run",
-    "Application.Problem_011_2.executor": "Run",
-    "Application.Problem_011_3.executor": "Run",
-    "Application.Problem_011_4.executor": "Run",
-    "Application.Problem_012_1.executor": "Run",
-    "Application.Problem_012_2.executor": "Run",
-    "Application.Problem_012_3.executor": "Run",
-    "Application.Problem_012_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/Java/Java Projects/PrepInsta_Top100Codes_Java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Problem_001_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_001_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_001_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_002_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_002_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_002_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_003_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_003_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_003_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_004_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_004_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_004_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_005_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_005_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_005_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_006_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_006_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_006_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_007_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_007_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_007_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_008_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_008_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_009_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_009_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_009_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_009_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_009_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_009_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_010_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_010_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_010_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_010_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_011_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_011_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_011_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_011_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_012_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_012_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_012_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_012_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_012_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rough.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Java/Java Projects/PrepInsta_Top100Codes_Java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Problem_007_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_007_2" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724662320863</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1724663348958</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724663348958</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
