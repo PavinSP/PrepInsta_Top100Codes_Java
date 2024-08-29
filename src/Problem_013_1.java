@@ -1,7 +1,7 @@
 // Check whether the Number is an Armstrong Number
 // Method 1: Using Iteration
 import java.util.Scanner;
-public class Problem_013_01{
+public class Problem_013_1 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
