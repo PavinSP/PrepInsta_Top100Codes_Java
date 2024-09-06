@@ -1,0 +1,17 @@
+An automobile company manufactures two-wheelers (TW) and four-wheelers (FW). Given the total number of vehicles and the total number of wheels, determine the number of two-wheelers and four-wheelers that need to be produced.
+
+Input:
+
+total_vehicles: The total number of vehicles (two-wheelers + four-wheelers).
+total_wheels: The total number of wheels.
+Output:
+
+A tuple or list containing two values: the number of two-wheelers and the number of four-wheelers.
+Example:
+
+Input: total_vehicles = 10, total_wheels = 32
+Output: (6, 4)  # 6 two-wheelers and 4 four-wheelers
+Constraints:
+
+total_vehicles and total_wheels will be positive integers.
+It is guaranteed that a solution exists.

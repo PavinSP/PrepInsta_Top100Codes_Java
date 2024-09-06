@@ -1,0 +1,15 @@
+Bob goes to the supermarket to shop candies represented by an array A for halloween party. His mother gave him some money M.
+Due to the festive season, there are several offers in the supermarket. One such offer useful for Bob is, if the price of the candy is a multiple of 5,
+he can buy it without spending any money otherwise he will spend money equal to Ai which is the price of a particular candy.
+Bob can shop as long as he has money. Your task is to find and return the maximum no of candies Bob can buy.
+
+Note:
+Assume 1 based indexing.
+
+Input Specification:
+input1: An integer value, representing number of candies.
+input1: An integer array A, representing price of each candy
+input1: An integer value M, representing the amount of money.
+
+Output Specification:
+Return the number of candies Bob can buy.
