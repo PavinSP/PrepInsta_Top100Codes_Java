@@ -1,0 +1,19 @@
+You are given a function
+int findCount(int[] arr, int length)
+
+The function accepts an array, and its size,
+you need to find the number of distinct elements that are there in the array
+and return the count of the number of distinct elements in the array.
+
+Assumption:
+Input string will not be empty.
+
+Input1:
+8, 9, 5, 8, 9, 7, 12
+Output1:
+5
+
+Input:
+8, 8, 8
+Output:
+5

@@ -1,0 +1,31 @@
+You are given a function:
+int CheckPassword(char str[], int n, int min);
+
+The function will accept a string (str[]), its length (n), and another argument min, which denotes the minimum length of the password. You are supposed to print "valid" if the password meets the criteria given below, or "invalid" if the password does not meet the criteria.
+
+Password criteria:
+At least min characters long
+At least one numeric digit
+At least one capital letter
+At least one special character
+Must not contain a space or the + character
+The starting character must not be a number
+
+Write code to check if the password meets these requirements.
+
+Assumption:
+Input string will not be empty.
+
+Example:
+
+Input1:
+aB1_72&
+5
+Output1:
+Valid
+
+Input1:
+c281 pbY012!
+2
+Output1:
+Invalid

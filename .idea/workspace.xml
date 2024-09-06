@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2580479-b0d5-4caa-9628-f228dd582436" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Problem_101" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_102" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_104" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_105" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_106" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_106.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rough.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +107,8 @@
     "Application.Problem_102.executor": "Run",
     "Application.Problem_103.executor": "Run",
     "Application.Problem_104.executor": "Run",
+    "Application.Problem_105.executor": "Run",
+    "Application.Problem_106.executor": "Run",
     "Application.main.executor": "Run",
     "Application.rough.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -289,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725418723881</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725627349730</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725627349730</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
