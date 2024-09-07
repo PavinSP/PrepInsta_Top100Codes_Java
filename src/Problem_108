@@ -1,0 +1,19 @@
+You are given a string s of length n. your friends wants to know the number of times his favourite letter c occurs in the string. Your task is to help your friend find and return an integer value representing the number of times a character occurs in a particular string.
+
+Note: All the characters in the string are in the lower case
+
+Input specification:
+Input 1: A string S
+Input 2: An integer N, representing the length of string
+Input 3: A character C
+
+Output specification
+Return an integer value representing the number of times a character occurs in a particular string
+
+Example 1:
+Input 1: helloworld
+Input 2: 10
+Input 3: l
+
+Output: 3
+
