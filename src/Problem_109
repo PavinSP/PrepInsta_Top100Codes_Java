@@ -1,0 +1,20 @@
+Daniel has a ball. He wants to find the ball’s rebound height, which he dropped from height H with an initial velocity V. After the Nth rebound the final velocity of the ball is Vn. Your task is to help him find and return an integer value representing the height to which the ball rebounds after N bounces.
+
+Note:
+•	H'=H×e2n, where H' is the rebound height, H is the initial height, e is the coefficient of restitution and n is the number of bounces
+•	en=V/Vn, where V is the initial velocity and Vn is the final velocity.
+
+Input specification:
+Input 1: An integer H representing initial height
+Input 2: An integer V, representing initial velocity
+Input 3: An integer Vn, representing initial velocity
+
+Output specification
+Return an integer value representing the height to which the ball rebound after N bounces
+
+Example 1:
+Input 1: 10
+Input 2: 20
+Input 3: 5
+
+Output: 160
