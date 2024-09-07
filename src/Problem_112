@@ -1,0 +1,17 @@
+Noah is given an array A of length N. He must perform the following operations on the array.
+•	Select any integer pair/s from the array with their sum equal to 18.
+•	From this select the pair with the maximum product such that the first element of the pair is greater than the second element of the pair.
+Your task is to help Noah fond and return a pair in the form of an integer array which satisfies the conditions mentioned.
+
+Input specification:
+Input 1: An integer N representing the length of array
+Input 2: An integer array A
+
+Output specification
+Return a pair in the form of an integer array which satisfies the conditions mentioned.
+
+Example 1:
+Input 1: 8
+Input 2: {11, 1, 2, 8, 10, 11, 15, 7}
+
+Output: {10, 8}
