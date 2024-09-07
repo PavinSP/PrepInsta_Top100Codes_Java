@@ -1,0 +1,12 @@
+Alex is exploring a series and she can across a special series, in which
+•	f(N) = f(N-1)* f(N-1)+ f(N-2)* f(N-2)
+•	where f(0)=1, f(1)=1
+Your task is to help Alex find and return an integer value, representing the Nth number in this special series.
+
+Note: Return the output modulo 47.
+
+Input specification:
+Input 1: An integer value N
+
+Output specification
+Return an integer value, representing the Nth number in this special series.
