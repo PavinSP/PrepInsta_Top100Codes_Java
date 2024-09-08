@@ -1,0 +1,13 @@
+Two players A and B are playing the game of Rock, Paper, Scissors. Player A chooses a move represented by a string value M and the move can be one of the following ‘rock’, ‘paper’, or ‘scissors’ where,
+•	Rock beats scissors
+•	Scissors beats paper
+•	Paper beats rock
+Your task is find and return a string value representing the winning move for player B.
+
+Note: The output is case sensitive
+
+Input specification
+Input1: A string value M, representing the move chosen by player A.
+
+Output specification
+Return a string value representing the winning move for player B
