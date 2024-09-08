@@ -1,0 +1,13 @@
+You are given a string array of length N. Your task is to find and return an integer value representing the maximum permutation count of the strings after removing all the vowels from every element in the string array.
+
+Note
+•	Consider all the letters in the string as different (if the word is “doll” then consider both l’s as different
+•	If there are no permutation characters then return 0.
+•	The string consists of both lowercase and uppercase characters
+
+Input specification:
+Input 1: A string of array of length N
+Input 2: An integer N representing the size of the string array
+
+Output specification
+Return an integer value representing the maximum permutation count of the string elements.

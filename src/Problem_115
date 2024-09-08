@@ -1,0 +1,11 @@
+Ian has been given an array A of length N and he wants to find the sum of even positions after reversing the array. Your tasks is to help him find and return an integer value representing sum of the array elements present at the even positions of the reversed array.
+Input specification:
+Input 1: A reverse integer array A
+Input 2: An integer N representing the size of the string array
+
+Output specification
+Return an integer value representing sum of the array element present at the even positions of the array.
+Example 1:
+Input 1: {10, 20, 30, 40, 50, 60}
+Input 2: 6
+Output: 120
