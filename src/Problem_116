@@ -1,0 +1,26 @@
+You are given a string array S that contains the names of some files along with their versions. Your task is to find and return an integer value representing the latest version out of all the files that are correctly named in the array. A file is considered correct if it follows the format of the file name as "File_X" (where X represents the file version number).
+
+Note
+•	A file is incorrect if the name of the file does not match the format.
+•	Return -1 if there are no correct files in the array.
+
+Input Specification:
+input1: A string array S representing the names of the files.
+input2: An integer value representing the size of the array.
+
+Output Specification:
+Return an integer value representing the latest version out of all the files that are correctly named in the array.
+
+Example 1:
+input1: (File 1,File_3, File_2)
+
+Output: 3
+
+Explanation: Here the given file array is (File_1, File_3, File_2). As we can see all the files are following the correct file format of "File_Version". So the second file has the greatest file version which is 3. Hence, 3 is returned as the output.
+
+Example 2:
+input1:
+input2:0
+Output: -1
+Explanation: Here the given file array is {}. As we can see there are no files in the array. Hence, -1is returned as the output.
+
