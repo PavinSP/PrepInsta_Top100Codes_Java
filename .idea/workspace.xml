@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2580479-b0d5-4caa-9628-f228dd582436" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Problem_118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +118,7 @@
     "Application.Problem_116.executor": "Run",
     "Application.Problem_117.executor": "Run",
     "Application.Problem_118.executor": "Run",
+    "Application.Problem_119.executor": "Run",
     "Application.main.executor": "Run",
     "Application.rough.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -389,7 +391,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725770632193</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725770832130</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725770832130</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725770949650</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1725770949650</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

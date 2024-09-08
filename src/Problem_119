@@ -1,0 +1,23 @@
+You are given a program to find the count of magical number from 1 to N. A magical number is defined by the following criteria.
+•	Convert each number in the range 1 to N (inclusive) to its binary representation.
+•	Replace ‘0’ with ‘1’ with ‘2’ in the binary string
+•	Calculate the sum of the digits in the modified binary string. If the resultant number is odd then it is considered a magical number.
+Your task is to find and return an integer value representing the count of the magical numbers present within the given range.
+
+Input specification
+Input1: An integer value N, representing the range of number.
+
+Output specification
+Return an integer value representing the count of the magical numbers present within the given range.
+
+Example 1:
+
+Input 1: 2
+
+Output: 1
+
+Explanation:
+Here the given number is 2. We can find the magic numbers in the following manner.
+•	1: 1 after replacing 1 with 2 the sum becomes 2, which is even.
+•	2: 10 after replacing 1 with 2 the sum becomes 3, which is odd.
+Since there is 1 odd sum present, 1 is returned as the output.
