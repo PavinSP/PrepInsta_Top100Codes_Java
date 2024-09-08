@@ -1,0 +1,17 @@
+A poet has asked you for assistance in writing poems. He has given you a string S and a dictionary D and he asks you to find, from the dictionary, a word which rhymes best with S. Words are said to rhyme when the last syllables of the words are the same, like ‘cave’ and ‘gave’ or ‘typical’ and ‘critical’. The words will be deemed to rhyme best if the last few characters of the words match the most.
+
+Your task is to find and return a string value denoting the word which rhymes best with S, from the dictionary D. If no such word is found, return the string ‘No Word’.
+
+Note:
+•	If all the characters match, it is the same word and not a rhyming word.
+•	All the given month are in lowercase
+•	If multiple rhyming worth are found then choose the word with the least index
+
+Input Specification:
+input1: A string value S, representing a single word
+input2: A string array D, representing the dictionary
+input3: An integer value representing the length of array D
+
+Output Specification:
+Return a string value denoting the word which rhymes best with S, from the dictionary D. If no such word is found, return the string ‘No Word’.
+
