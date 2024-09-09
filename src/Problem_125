@@ -1,0 +1,11 @@
+In a tech start up, the team faced a software bug the zeros in their data outputs were causing their system to crash. A junior developer suggested replacing all the 0’s with 5’s as a quick fix. By implementing this simple code tweak, they stabilize the system. Your task is to find and return an integer value representing the value that stabilize the system.
+
+Input Specification:
+Input 1: An integer value
+
+Output specification:
+Return an integer value representing the value that stabilize the system.
+
+Example 1: 100067
+
+Output: 155567
