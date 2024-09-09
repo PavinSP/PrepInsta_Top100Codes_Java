@@ -1,0 +1,13 @@
+You are in charge of a convoy of N vehicles, each with fuel meter, which shows the fuel present in each vehicle in liters. Each vehicles need to travel a distance of X kilometres. If the fuel becomes empty before reaching X kilometres, the vehicle can refuel, but the refuelling will be of X kilometres and if the vehicle completes the X kilometres, where fuel is left over then the extra fuel will be given to the next vehicle in the convey. You must rearrange the convoy such that the vehicles take minimum refuelling stops.
+Your task is to find and return an integer value representing the minimum number of refuelling stops required by the convoy of vehicles.
+
+Note:
+•	The vehicle can go 1 kilometre in a single litre.
+•	The refuelling at any point of time will be X liters only.
+
+Input specification
+Input1: An integer array X, representing the distance to be travelled.
+Input2: An integer value N, representing the number of vehicles in the convoy.
+
+Output specification
+Return an integer value representing the minimum number of refuelling stops required by the convoy of vehicles
