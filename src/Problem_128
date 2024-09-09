@@ -1,0 +1,36 @@
+Your friend has entered a name in your contact list where some letters are in uppercase and others are in lowercase. Your task is to reformat the name such that:
+
+The first name should be completely in lowercase.
+The last name should be completely in uppercase.
+Input Specification:
+Input 1: A string F, representing the first name.
+Input 2: A string L, representing the last name.
+Output Specification:
+Return a string in the format: "first_name_in_lowercase LAST_NAME_IN_UPPERCASE".
+Example 1:
+Input:
+
+makefile
+Copy code
+F = "John"
+L = "doe"
+Output:
+
+arduino
+Copy code
+"john DOE"
+Explanation: The first name "John" is converted to lowercase "john", and the last name "doe" is converted to uppercase "DOE".
+
+Example 2:
+Input:
+
+makefile
+Copy code
+F = "ALIce"
+L = "WonderLand"
+Output:
+
+arduino
+Copy code
+"alice WONDERLAND"
+Explanation: The first name "ALIce" is converted to lowercase "alice", and the last name "WonderLand" is converted to uppercase "WONDERLAND".
